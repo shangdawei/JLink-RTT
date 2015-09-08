@@ -1,0 +1,16 @@
+HKEY_CURRENT_USER\Software\SEGGER\J-Link
+
+InstallPath 
+REG_SZ 
+C:\Program Files (x86)\SEGGER\
+  
+CurrentVersion 
+REG_DWORD 
+0xC030  
+
+LogFile 
+REG_SZ 
+C:\JLink.log
+  
+  
+  
